@@ -4,6 +4,8 @@
   "description": "DDD勉強のためのサンプル",
   "main": "index.js",
   "scripts": {
+    "tsc": "tsc *.ts",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
