@@ -1,0 +1,22 @@
+{
+  "name": "ddd-sample",
+  "version": "1.0.0",
+  "description": "DDD勉強のためのサンプル",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negi524/ddd-sample.git"
+  },
+  "author": "negi524",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/negi524/ddd-sample/issues"
+  },
+  "homepage": "https://github.com/negi524/ddd-sample#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
